@@ -4,10 +4,10 @@ Este repositório foi criado com o objetivo de hospedar os arquivos relativos ao
 
 ## O Grupo #? :
 - Daniel Rocha (danielsantos852@gmail.com)
-- Edgar Yamagata ()
-- Guilherme Ribeiro ()
-- Sabrina zani ()
-- Luiza Lima ()
+- Edgar Yamagata (edgar.yamagata@gmail.com)
+- Guilherme Ribeiro (guilherme_f_ribeiro@hotmail.com)
+- Sabrina zani (sabrinazani2000@gmail.com)
+- Luiza Lima (luiza-97@hotmail.com)
 
 ## Sobre o trabalho
 [Adicionar texto]
